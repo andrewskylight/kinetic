@@ -1,0 +1,50 @@
+<!-- fourth row of gallery items -->
+								<article class="col-md-4">
+									<a href="imgs/work8.jpg" title="Amazing image 8" data-gallery>
+										<div class="img-container" style="background-image: url('imgs/work8-thumb.jpg');"></div>
+										<div class="title-container"><h3>Amazing Image 8</h3></div>
+									</a>
+								</article> <!-- /.col-md-4 -->
+								<article class="col-md-8">
+									<a href="imgs/work9.jpg" title="Amazing image 9" data-gallery>
+										<div class="img-container" style="background-image: url('imgs/work9-thumb.jpg');"></div>
+										<div class="title-container"><h3>Amazing Image 9</h3></div>
+									</a>
+								</article> <!-- /.col-md-8 -->
+								<!-- / fourth row of gallery items -->
+								
+								<!-- fifth row of gallery items -->
+								<article class="col-md-5">
+									<a href="imgs/work10.jpg" title="Amazing image 10" data-gallery>
+										<div class="img-container" style="background-image: url('imgs/work10-thumb.jpg');"></div>
+										<div class="title-container"><h3>Amazing Image 10</h3></div>
+									</a>
+								</article> <!-- /.col-md-5 -->
+								<article class="col-md-7">
+									<a href="imgs/work11.jpg" title="Amazing image 11" data-gallery>
+										<div class="img-container" style="background-image: url('imgs/work11-thumb.jpg');"></div>
+										<div class="title-container"><h3>Amazing Image 11</h3></div>
+									</a>
+								</article> <!-- /.col-md-7 -->
+								<!-- / fifth row of gallery items -->
+								
+								<!-- sixth row of gallery items -->
+								<article class="col-md-4">
+									<a href="imgs/work12.jpg" title="Amazing image 12" data-gallery>
+										<div class="img-container" style="background-image: url('imgs/work12-thumb.jpg');"></div>
+										<div class="title-container"><h3>Amazing Image 12</h3></div>
+									</a>
+								</article> <!-- /.col-md-4 -->
+								<article class="col-md-4">
+									<a href="imgs/work13.jpg" title="Amazing image 13" data-gallery>
+										<div class="img-container" style="background-image: url('imgs/work13-thumb.jpg');"></div>
+										<div class="title-container"><h3>Amazing Image 13</h3></div>
+									</a>
+								</article> <!-- /.col-md-4 -->
+								<article class="col-md-4">
+									<a href="imgs/work14.jpg" title="Amazing image 14" data-gallery>
+										<div class="img-container" style="background-image: url('imgs/work14-thumb.jpg');"></div>
+										<div class="title-container"><h3>Amazing Image 14</h3></div>
+									</a>
+								</article> <!-- /.col-md-4 -->
+								<!-- / sixth row of gallery items -->
